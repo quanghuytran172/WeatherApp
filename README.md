@@ -1,5 +1,5 @@
 # Weather App ReactJs
-## Link https://shopping-app-91928.web.app/
+## Link: https://weatherapp-huytran.netlify.app/
 
 ## Available Scripts
 
